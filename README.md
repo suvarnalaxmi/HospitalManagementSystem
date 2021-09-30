@@ -3,7 +3,7 @@
 - [General Information](https://github.com/suvarnalaxmi/HospitalManagementSystem#general-information)
 - [Technologies Used](https://github.com/suvarnalaxmi/HospitalManagementSystem#technologies-used)
 - [Features](https://github.com/suvarnalaxmi/HospitalManagementSystem#features)
-- [Setup](https://github.com/suvarnalaxmi/HospitalManagementSystem#general-setup)
+- [Setup](https://github.com/suvarnalaxmi/HospitalManagementSystem#setup-)
 - [Project requirements/dependencies](https://github.com/suvarnalaxmi/HospitalManagementSystem#project-requirementsdependencies)
 - [Extentions for Vscode](https://github.com/suvarnalaxmi/HospitalManagementSystem#extentions-for-vscode)
 - [Acknowledgements](https://github.com/suvarnalaxmi/HospitalManagementSystem#acknowledgements)
