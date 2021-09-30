@@ -1,4 +1,13 @@
 # City Hospital Management System
+## **Table of Contents**
+- General Information
+- Technologies Used
+- Features
+- Setup
+- Project requirements/dependencies
+- Extentions for Vscode
+- Acknowledgements
+- Contact
 
 ## **General Information:**
 
