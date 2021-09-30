@@ -60,7 +60,7 @@ Many thanks to My team.
 
 ## **Contact**
 
-Created by [Suvarnalaxmi Lambture](https:www.github.com/suvarnalaxmi),[Laxmipuja Biradar](www.github.com/laxmipuja),
-[Amogh Mhamane](https://pages.github.com/Mhamaneamogh50),[Tanmay Nail](https://pages.github.com/tanmaynaik),[Keshav Phulpagar](https://pages.github.com/Keshavphulpagar)
+Created by [Suvarnalaxmi Lambture](https://github.com/suvarnalaxmi),[Laxmipuja Biradar](https://github.com/laxmipuja),
+[Amogh Mhamane](https://github.com/Mhamaneamogh50),[Tanmay Nail](https://github.com/tanmaynaik),[Keshav Phulpagar](https://github.com/Keshavphulpagar)
 
 Feel free to contact us!
